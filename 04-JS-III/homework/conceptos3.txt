@@ -1,0 +1,3 @@
+Arrays: Podria describirse como una variable que agrupa cualquier tipo de dato y que su notacion se hace 
+        a traves de braquets [] y los datos que almacena se separan por medio de comas. Su estructura es la siguiente:
+        var arreglo = [1,1,....];
