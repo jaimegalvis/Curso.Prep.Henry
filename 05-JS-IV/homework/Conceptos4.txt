@@ -1,0 +1,11 @@
+Objetos: Al igual que los arreglos los objetos contienen varias cosas dentro de si, sin embargo
+        los objetos contienen muchas Propiedades de un solo elemento
+Propiedades: Son las caracteristicas especificas de cada objeto, y podrian verse de alguna manera como
+        las variables que componen a los objetos.
+Métodos: Es una manera de llamas a una funcion dentro de un objeto
+Bucle for…in: 
+Notación de puntos vs notación de corchetes:la notacion por puntos es una manera de acceder a las
+        propiedades de un objeto (objeto.propiedad) de una manera rapida y facil sin embargo al realizar 
+        esta notacion solo se puede acceder a la propiedad de manera literal, mientras que la notacion de
+        corchetes (objeto['propiedad']) si se coloca un string dentro de los corchetes lo tomará literal pero
+        si se coloca sin comillas admite variables.
