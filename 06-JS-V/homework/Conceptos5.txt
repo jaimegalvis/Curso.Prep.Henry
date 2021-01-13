@@ -1,0 +1,4 @@
+prototype: Se utiliza para crear o modificar funciones propias de las clases. Se podria relacionar con los
+        metodos de los objetos pero serian los metodos de las clases.
+Constructors (de Clases): Se podria decir que es como un objeto por default o una plantilla de objetos la cual
+        se utilizará en los objetos que se vayan a crear mas adelante.
