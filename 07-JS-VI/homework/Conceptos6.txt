@@ -1,0 +1,2 @@
+Funciones Callback: Son funciones propias de los arreglos las cuales se puede decir que son 
+        funciones dentro de otras funciones
